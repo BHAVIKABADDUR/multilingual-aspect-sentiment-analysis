@@ -1,0 +1,108 @@
+========== TOTAL REVIEWS ==========
+Total reviews: 20,000
+
+========== COLUMN NAMES ==========
+review_text, rating, sentiment, review_date, city, category, platform, language_mix, review_length, review_id, product_id, product_name, aspects_mentioned
+
+========== FIRST 10 REVIEWS ==========
+--- Review 1 ---
+  review_id: SYN_000001
+  review_text: Face Wash ka result decent mila, fragrance mild. Price zyada tha. Value for money.
+  rating: 4
+  sentiment: positive
+  review_date: 2025-02-06
+  platform: Myntra
+  aspects_mentioned: general
+
+--- Review 2 ---
+  review_id: SYN_000002
+  review_text: Price zyada tha tha, Cotton T-Shirt overall great value. Disappointed ho gaya.
+  rating: 4
+  sentiment: positive
+  review_date: 2025-06-18
+  platform: Myntra
+  aspects_mentioned: general
+
+--- Review 3 ---
+  review_id: SYN_000003
+  review_text: Masala Dosa fresh tha aur Swiggy delivery bahut fast thi thi. Price mehenga tha. Nahi lena chahiye tha.
+  rating: 3
+  sentiment: neutral
+  review_date: 2024-04-05
+  platform: Swiggy
+  aspects_mentioned: general
+
+--- Review 4 ---
+  review_id: SYN_000004
+  review_text: Flipkart se Mixer Grinder liya, quality average. Delivery on time thi, packaging sahi thi. Overall theek hai.
+  rating: 3
+  sentiment: neutral
+  review_date: 2024-01-04
+  platform: Zomato
+  aspects_mentioned: general
+
+--- Review 5 ---
+  review_id: SYN_000005
+  review_text: Face Serum ka result visible mila, fragrance none. Price affordable. Phir bhi recommend karunga.
+  rating: 2
+  sentiment: negative
+  review_date: 2024-03-15
+  platform: Swiggy
+  aspects_mentioned: general
+
+--- Review 6 ---
+  review_id: SYN_000006
+  review_text: Flipkart se Electric Kettle liya, quality average. Delivery late thi, packaging kharab thi. Value for money.
+  rating: 2
+  sentiment: negative
+  review_date: 2024-04-11
+  platform: Myntra
+  aspects_mentioned: general
+
+--- Review 7 ---
+  review_id: SYN_000007
+  review_text: Veg Thali fresh tha aur Swiggy delivery bahut fast thi thi. Price mehenga tha. Overall theek hai.
+  rating: 1
+  sentiment: negative
+  review_date: 2023-11-23
+  platform: Amazon
+  aspects_mentioned: general
+
+--- Review 8 ---
+  review_id: SYN_000008
+  review_text: Veg Thali fresh tha aur Swiggy delivery bahut fast thi thi. Price affordable. Value for money.
+  rating: 2
+  sentiment: negative
+  review_date: 2025-04-01
+  platform: Flipkart
+  aspects_mentioned: general
+
+--- Review 9 ---
+  review_id: SYN_000009
+  review_text: Allergic reaction nahi hua, texture runny. Nykaa service theek tha. Value for money.
+  rating: 2
+  sentiment: negative
+  review_date: 2025-02-18
+  platform: Nykaa
+  aspects_mentioned: general
+
+--- Review 10 ---
+  review_id: SYN_000010
+  review_text: Zomato pe Vada Pav mangwaya, average. Delivery late thi thi, packaging leak-proof thi. Value for money.
+  rating: 4
+  sentiment: positive
+  review_date: 2023-05-21
+  platform: Flipkart
+  aspects_mentioned: general
+
+
+========== REVIEWS PER STAR RATING ==========
+1 star: 2549
+2 star: 2622
+3 star: 2572
+4 star: 9656
+5 star: 2601
+
+========== DATE RANGE ==========
+From: 2023-01-01  To: 2025-10-14
+

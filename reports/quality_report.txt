@@ -1,0 +1,36 @@
+
+========== DATASET QUALITY ANALYSIS ==========
+Total reviews: 20000
+
+========== MISSING VALUES ==========
+Empty review_text: 0 (0.00%)
+Missing rating: 0 (0.00%)
+These rows should be dropped in analysis/modeling.
+
+========== VERY SHORT REVIEWS (<5 WORDS) ==========
+Very short reviews: 0 (0.00%)
+Short reviews are less informative and may hurt model performance.
+
+========== DUPLICATE REVIEWS ==========
+Reviews with same text: 0 (0.00%)
+Duplicates may indicate spam, copy-pasting, etc.
+
+========== LANGUAGE MIX DETECTION ==========
+Contains Hindi word: 17257 (86.28%) (flagged as code-mixed)
+Likely pure English: 2743 (13.71%)
+Other (not matching): 0 (0.00%)
+Detection uses common Hindi tokens in Latin script; ASCII-only and no Hindi token = likely English.
+
+========== EXAMPLE REVIEWS ==========
+[Clean English]
+Chennai me Swiggy ka order diya: Margherita Pizza. Quantity sahi thi, thik temperature. Must try.
+[Code-Mixed Hindi-English]
+Nykaa se Shampoo liya, skin pe feel thoda sticky hai. Packaging leak-proof thi. Delivery late thi. Disappointed ho gaya.
+No very short review found.
+
+========== NOTES ==========
+- Empty text or rating = missing data, should drop
+- Very short (<5 words) rarely useful for sentiment/aspect learning
+- Duplicates indicate possible spam or repetitive sampling
+- Code-mixed = at least one common Hindi token in review_text
+- Pure English = only ascii letters/numbers/punct and NOT code-mixed
