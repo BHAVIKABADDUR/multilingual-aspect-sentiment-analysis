@@ -1,0 +1,48 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+*.egg
+*.egg-info/
+dist/
+build/
+
+# Jupyter Notebook
+.ipynb_checkpoints
+
+# Models (large files - don't commit to Git)
+models/*.pkl
+
+# Virtual Environment
+venv/
+env/
+ENV/
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# Operating System
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+
+# Project specific
+logs/
+*.log
+
+# Optional: Data files (uncomment if you don't want to track data)
+# processed_data/*.csv
+# raw_data/*.csv
+
+# Optional: Reports (uncomment if reports are regenerable)
+# reports/images/*.png
+# reports/*.txt

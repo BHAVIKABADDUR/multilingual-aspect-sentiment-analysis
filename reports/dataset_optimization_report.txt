@@ -1,0 +1,49 @@
+======================================================================
+DATASET OPTIMIZATION REPORT FOR MuRIL
+======================================================================
+Author: Bhavika Baddur
+Date: 2025-11-02 12:44:00
+
+======================================================================
+OPTIMIZATION SUMMARY
+======================================================================
+Total reviews: 13,923
+Perfect balance: 3 classes × 4,641 samples
+
+Sentiment Distribution:
+  positive: 4,641 (33.3%)
+  negative: 4,641 (33.3%)
+  neutral: 4,641 (33.3%)
+
+Review Length Statistics:
+  Mean: 115 characters
+  Median: 108 characters
+  Min: 43 characters
+  Max: 1043 characters
+
+Estimated Token Count:
+  Mean: 26 tokens
+  Median: 23 tokens
+  Reviews > 128 tokens: 29 (0.2%)
+
+Data Quality:
+  Null values: 0
+  Duplicate reviews: 0 (removed)
+  Empty reviews: 0 (removed)
+
+Columns:
+  - review_text
+  - sentiment
+  - language_mix
+  - rating
+  - review_id
+  - product_id
+  - category
+  - platform
+  - review_length_chars
+  - estimated_tokens
+  - will_be_truncated
+
+======================================================================
+READY FOR MuRIL TRAINING!
+======================================================================

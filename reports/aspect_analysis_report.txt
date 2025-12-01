@@ -1,0 +1,100 @@
+======================================================================
+ASPECT-BASED SENTIMENT ANALYSIS REPORT
+By: Bhavika Baddur
+======================================================================
+
+
+======================================================================
+📊 PRODUCT QUALITY
+======================================================================
+
+Total mentions: 10,757 reviews
+
+Sentiment Distribution:
+  Positive  : ██████████████████████████████                      61.9% (6,661)
+  Neutral   : ██                                                   5.4% (577)
+  Negative  : ████████████                                        25.7% (2,761)
+
+Sample Positive Reviews:
+  1. Powerbank ka performance mast hai, price affordable. Return/replace helpful tha. Nahi lena chahiye t...
+  2. Flipkart se Mixer Grinder liya, quality badhiya. Delivery bahut fast thi, packaging sahi thi. Value ...
+
+Sample Negative Reviews:
+  1. Design modern hai, use karne me easy. Nahi lena chahiye tha....
+  2. Pressure Cooker ka performance below average tha, price affordable. Warranty/return helpful tha. Nah...
+
+======================================================================
+📊 DELIVERY
+======================================================================
+
+Total mentions: 10,933 reviews
+
+Sentiment Distribution:
+  Positive  : █████████████████████                               43.0% (4,697)
+  Neutral   : ███                                                  6.9% (756)
+  Negative  : ███████████████████████                             47.3% (5,171)
+
+Sample Positive Reviews:
+  1. Flipkart se Mixer Grinder liya, quality badhiya. Delivery bahut fast thi, packaging sahi thi. Value ...
+  2. Amazon pe Bluetooth Speaker purchase kiya, build solid hai. Packaging sahi thi, delivery bahut fast ...
+
+Sample Negative Reviews:
+  1. Zomato pe Hakka Noodles mangwaya, theek thaak. Delivery late thi thi, packaging sahi thi. Disappoint...
+  2. Flipkart se Mixer Grinder liya, quality badhiya. Delivery late thi, packaging sahi thi. Value for mo...
+
+======================================================================
+📊 PACKAGING
+======================================================================
+
+Total mentions: 5,463 reviews
+
+Sentiment Distribution:
+  Positive  : ██████████████████                                  37.3% (2,038)
+  Neutral   : ████                                                 9.3% (510)
+  Negative  : █████████████████████████                           51.6% (2,817)
+
+Sample Positive Reviews:
+  1. Flipkart se Mixer Grinder liya, quality badhiya. Delivery bahut fast thi, packaging sahi thi. Value ...
+  2. Amazon pe Bluetooth Speaker purchase kiya, build solid hai. Packaging sahi thi, delivery bahut fast ...
+
+Sample Negative Reviews:
+  1. Zomato pe Hakka Noodles mangwaya, theek thaak. Delivery late thi thi, packaging sahi thi. Disappoint...
+  2. Flipkart se Mixer Grinder liya, quality badhiya. Delivery late thi, packaging sahi thi. Value for mo...
+
+======================================================================
+📊 PRICE
+======================================================================
+
+Total mentions: 7,505 reviews
+
+Sentiment Distribution:
+  Positive  : ████████████████████████████                        57.3% (4,299)
+  Neutral   : █████                                               12.0% (898)
+  Negative  : █████████████                                       26.3% (1,971)
+
+Sample Positive Reviews:
+  1. Powerbank ka performance mast hai, price affordable. Return/replace helpful tha. Nahi lena chahiye t...
+  2. Flipkart se Mixer Grinder liya, quality badhiya. Delivery bahut fast thi, packaging sahi thi. Value ...
+
+Sample Negative Reviews:
+  1. Pressure Cooker ka performance below average tha, price affordable. Warranty/return helpful tha. Nah...
+  2. Price zyada tha tha, Denim Jeans overall disappointing. Value for money....
+
+======================================================================
+📊 CUSTOMER SERVICE
+======================================================================
+
+Total mentions: 3,546 reviews
+
+Sentiment Distribution:
+  Positive  : ████████████████                                    32.3% (1,145)
+  Neutral   : █████                                               10.7% (381)
+  Negative  : ██████████████████████████                          52.4% (1,858)
+
+Sample Positive Reviews:
+  1. Allergic reaction nahi hua, texture runny. Nykaa service theek tha. Phir bhi recommend karunga....
+  2. Hair Dryer ka performance mast tha, price zyada tha. Warranty/return theek tha. Must try....
+
+Sample Negative Reviews:
+  1. Pressure Cooker ka performance below average tha, price affordable. Warranty/return helpful tha. Nah...
+  2. Powerbank ka performance mast hai, price affordable. Return/replace helpful tha. Nahi lena chahiye t...

@@ -7,3 +7,12 @@ nltk>=3.7
 seaborn>=0.11.0
 datasets>=2.14.0
 huggingface_hub>=0.16.0
+pickle-mixin>=1.0.2
+streamlit>=1.28.0
+plotly>=5.18.0
+
+# Phase 5: MuRIL Advanced Model
+transformers>=4.35.0
+torch>=2.0.0
+accelerate>=0.24.0
+imbalanced-learn>=0.11.0
